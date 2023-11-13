@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class WelcomePage {
-
+    //Added comments
 	//Declaration
 	@FindBy(xpath = "//a[@class=\"navbar-brand\"]")
 	private WebElement logo;
